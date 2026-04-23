@@ -4,7 +4,7 @@ Smart Complaint & Issue Tracking System
 This is a backend application built using Spring Boot to manage and track complaints in a society such as maintenance, water, and electricity issues.
 
 ## Tech Stack
-- Java 17
+- Java 
 - Spring Boot
 - Hibernate (JPA)
 - MySQL
